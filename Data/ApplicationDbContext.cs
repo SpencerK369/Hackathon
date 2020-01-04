@@ -4,7 +4,7 @@ using System.Text;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace Hackathon.Data
+namespace HackathonWebApp.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {

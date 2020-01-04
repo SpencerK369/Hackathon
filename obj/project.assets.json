@@ -5353,9 +5353,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Git\\Hackathon\\Hackathon.csproj",
-      "projectName": "Hackathon",
-      "projectPath": "C:\\Git\\Hackathon\\Hackathon.csproj",
+      "projectUniqueName": "C:\\Git\\Hackathon\\HackathonWebApp.csproj",
+      "projectName": "HackathonWebApp",
+      "projectPath": "C:\\Git\\Hackathon\\HackathonWebApp.csproj",
       "packagesPath": "C:\\Users\\jhnkr\\.nuget\\packages\\",
       "outputPath": "C:\\Git\\Hackathon\\obj\\",
       "projectStyle": "PackageReference",
