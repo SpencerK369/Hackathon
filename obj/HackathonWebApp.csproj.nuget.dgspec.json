@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git\\Hackathon\\HackathonWebApp.csproj": {}
+    "C:\\Projects\\Hackathon\\HackathonWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Git\\Hackathon\\HackathonWebApp.csproj": {
+    "C:\\Projects\\Hackathon\\HackathonWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\Hackathon\\HackathonWebApp.csproj",
+        "projectUniqueName": "C:\\Projects\\Hackathon\\HackathonWebApp.csproj",
         "projectName": "HackathonWebApp",
-        "projectPath": "C:\\Git\\Hackathon\\HackathonWebApp.csproj",
-        "packagesPath": "C:\\Users\\jhnkr\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\Hackathon\\obj\\",
+        "projectPath": "C:\\Projects\\Hackathon\\HackathonWebApp.csproj",
+        "packagesPath": "C:\\Users\\Aaron\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Hackathon\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "D:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\jhnkr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aaron\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -82,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "D:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
