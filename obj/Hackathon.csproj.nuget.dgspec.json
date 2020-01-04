@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Hackathon\\Hackathon.csproj": {}
+    "C:\\Git\\Hackathon\\Hackathon.csproj": {}
   },
   "projects": {
-    "C:\\Hackathon\\Hackathon.csproj": {
+    "C:\\Git\\Hackathon\\Hackathon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Hackathon\\Hackathon.csproj",
+        "projectUniqueName": "C:\\Git\\Hackathon\\Hackathon.csproj",
         "projectName": "Hackathon",
-        "projectPath": "C:\\Hackathon\\Hackathon.csproj",
+        "projectPath": "C:\\Git\\Hackathon\\Hackathon.csproj",
         "packagesPath": "C:\\Users\\jhnkr\\.nuget\\packages\\",
-        "outputPath": "C:\\Hackathon\\obj\\",
+        "outputPath": "C:\\Git\\Hackathon\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
